@@ -15,3 +15,10 @@ linked in filter out I'm hiring people
 Hitlist builder
 https://docs.google.com/spreadsheets/d/1Be-6gYvrfi8l-M0RnObzdysRIG7N7Yyu6rIF0OHw0Q4/edit#gid=1771441293
 
+Behavioral 
+https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c/edit
+
+p => parameters passed in to the function
+r => what the the result of the function should be e.g          string array etc
+e=> examples of input and expected output
+p=> psuedocode 
