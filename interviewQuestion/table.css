@@ -1,0 +1,17 @@
+table{
+    border: 1px solid black;
+    width: 500px;
+}
+tr{
+    border: 1px solid red;
+    background-color:#f1f;
+    height: 60px;
+}
+td{
+    border: 1px solid green;
+    height: 50px;
+}
+
+.selected{
+    background-color:green;
+}

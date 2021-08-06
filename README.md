@@ -22,3 +22,7 @@ p => parameters passed in to the function
 r => what the the result of the function should be e.g          string array etc
 e=> examples of input and expected output
 p=> psuedocode 
+
+Premium applications
+- 10
+Network, tweet, read blogs, create sample projects for them
