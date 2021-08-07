@@ -13,7 +13,7 @@ build hitlist - companies that you'd like to apply for/get a job
 linked in filter out I'm hiring people
 
 Hitlist builder
-https://docs.google.com/spreadsheets/d/1Be-6gYvrfi8l-M0RnObzdysRIG7N7Yyu6rIF0OHw0Q4/edit#gid=1771441293
+https://docs.google.com/spreadsheets/d/1B_p7GvIGXTU2ClPMr4Blukc_HyUWyBxgqJ4fA4eiX1Q/edit#gid=607042418
 
 Behavioral 
 https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c/edit
