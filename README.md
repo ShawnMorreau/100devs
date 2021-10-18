@@ -26,3 +26,8 @@ p=> psuedocode
 Premium applications
 - 10
 Network, tweet, read blogs, create sample projects for them
+
+What is my story?
+-   Started building computers for family from a young age and always questioned 'how things work'. Everything from that pinball game when internet wasn't connected to the first big game I played online 'runescape'. 
+- In highschool I saw that there was a class provided to learn how to code and I jumped on it, and even had to take an online class in my final year because I had enjoyed it so much. 
+- 
